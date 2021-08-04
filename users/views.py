@@ -1,4 +1,4 @@
-from os import stat
+
 from django.http import response
 from django.shortcuts import get_list_or_404, render
 
