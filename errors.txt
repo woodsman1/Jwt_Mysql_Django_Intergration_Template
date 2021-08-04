@@ -1,1 +1,3 @@
 MySql Client installation error :- https://stackoverflow.com/questions/53641541/why-pip-install-mysqlclient-not-working-in-ubuntu-18-04-lts/53641741
+Jwt Token implementation :- https://stackoverflow.com/questions/54544978/customizing-jwt-response-from-django-rest-framework-simplejwt
+Refrence :- https://django-rest-framework-simplejwt.readthedocs.io/en/latest/getting_started.html#installation
