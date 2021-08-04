@@ -1,0 +1,1 @@
+MySql Client installation error :- https://stackoverflow.com/questions/53641541/why-pip-install-mysqlclient-not-working-in-ubuntu-18-04-lts/53641741
