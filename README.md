@@ -1,5 +1,5 @@
 # Simple JWT-MYSQL-Django Integration Template
-A simple with already implemention of Email SignUp and Login, Mysql integration with Django and JWT Token Athentication
+A simple template with already implementation of Email Sign Up and Login, MySQL integration with Django and JWT Token Authentication
 
 ### Features Implemented:-
 * MySql integration
