@@ -119,7 +119,7 @@ DATABASES = {          # while upoading make sure to keep the credential in envi
         'ENGINE': 'django.db.backends.mysql',
         'NAME': 'JWT_SQL_DJANGO',
         'USER': 'woodsman',
-        'PASSWORD': 'lOcalhost@1234',
+        'PASSWORD': '*********',
         'HOST': 'localhost',
         'PORT': '3306',
     }
